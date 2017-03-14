@@ -29,3 +29,5 @@ node_modules
 
 #Dependency
 bot.config.js
+
+test\.js
